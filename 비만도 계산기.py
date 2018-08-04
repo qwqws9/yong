@@ -14,5 +14,5 @@ elif 110<=b<120 :
 elif 120<=b<130 :
     print('{}님의 비만도는 {:.2f}%로 비만 입니다.'.format(name,b))
 elif b>=130 :
-    print('{}님의 비만도는 {:.2f}%로 고도비만 입니다.운동하세요'.format(name,b))
+    print('{}님의 비만도는 {:.2f}%로 고도비만 입니다.'.format(name,b))
 input()
